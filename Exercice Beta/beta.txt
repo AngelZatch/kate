@@ -1,0 +1,12 @@
+Objectif : 
+
+Répliquer l'image "beta.PNG", sans les boutons.
+
+Pour ce faire :
+- Créer un fichier index.html
+- Créer un fichier styles.css
+
+L'exercice doit utiliser Bootstrap 4 : 
+https://getbootstrap.com/docs/4.1/getting-started/introduction/
+
+Suivre la documentation fournie par Bootstrap pour l'utiliser (au niveau du CSS seulement)
